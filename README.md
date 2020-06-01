@@ -74,4 +74,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
  https://ckeditor.com/
 
  check the data 
- 
+Check out the documentation of the ckeditor for react framework
+
+ https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html
