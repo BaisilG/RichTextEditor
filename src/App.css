@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+.App{
+  {
+    test: cssRegex,
+    exclude: [
+        cssModuleRegex,
+        /ckeditor5-[^/\\]+[/\\]theme[/\\].+\.css$/,
+    ],
+    // (...)
+}
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

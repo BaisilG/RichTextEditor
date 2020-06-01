@@ -34,7 +34,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <h2>Testing Rich Text Editor!</h2>
+                <h2>Testing Rich Text</h2>
                 <CKEditor
                     editor={ ClassicEditor }
                     data="<p>Hello from Baisil 5!</p>"

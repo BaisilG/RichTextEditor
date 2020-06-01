@@ -77,3 +77,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Check out the documentation of the ckeditor for react framework
 
  https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html
+
+
+ installing the react html parse 
+ npm install react-html-parser -----------this is the command for instaling the same.
